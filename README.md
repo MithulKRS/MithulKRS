@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a undergraduate student at NIT-bhopal<br>i am skilled in field of data science and dsa<br>i have expertise in machine learning and also deep learning and real world projects<br>im currently learning mlops and deployement using aws<br>
+Hi! I'm Mithul Krishna Suresh, a 2nd-year Computer Science student at MANIT Bhopal with a deep passion for the world of Data Science and Artificial Intelligence.<br>I am dedicated to exploring how data-driven insights can solve complex problems.<br> Most of my technical journey revolves around mastering Machine Learning fundamentals and building a rigorous foundation in Data Structures and Algorithms.<br>I find the process of optimizing logic and uncovering patterns in data incredibly rewarding.
 
 
 ## 🌐 Socials:
