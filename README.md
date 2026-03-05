@@ -15,10 +15,18 @@ Continuously learning and implementing modern AI techniques.<br>Bridging the gap
 ![](https://nirzak-streak-stats.vercel.app/?user=MithulKRS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MithulKRS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+## 📈 Industry & Professional Experience
+* **British Airways Data Science Simulation:** Specialized in predictive modeling and customer behavior analysis.
+* **Deloitte Australia Data Analytics Simulation:** Focused on data cleaning, strategic visualization, and business intelligence.
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MithulKRS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Turning raw data into actionable intelligence, one container at a time."*
