@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mithul Krishna
 
-### 💻 Computer Science @ MANIT Bhopal | AI/ML Engineer in Progress | Software Developer
+### 💻 Computer Science @ MANIT Bhopal | AI/ML Engineer | Software Developer
 
 I'm a third-year Computer Science and Engineering student at **MANIT Bhopal**, passionate about building practical software and AI-powered applications.
 
