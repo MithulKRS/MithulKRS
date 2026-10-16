@@ -10,7 +10,7 @@ I enjoy turning ideas into working systems—from **LLM-powered applications and
 - 🧠 Building projects with **Machine Learning and Deep Learning**
 - 💻 Developing backend applications using **Java, Python, SQL, and JDBC**
 - 🧪 Practicing software testing with **JUnit 5 and Mockito**
-- 📈 Solved **250+ DSA problems** across coding platforms
+- 📈 Solved **400+ DSA problems** across coding platforms
 - 🌱 Always learning, building, and looking for opportunities to contribute to meaningful projects
 
 ---
